@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @achintya7567
-- 👀 I’m interested in web development and avenues of computer science
+- 👀 I’m interested in web development and looking to learn about data science
 - 🌱 I’m currently learning javascript, python
-- 💞️ I’m looking to collaborate on beginner level python and webdev projects
+- 💞️ I’m looking to collaborate on python and webdev projects
 - 📫 How to reach me ...
 
 <!---
