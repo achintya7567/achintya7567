@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @achintya7567
 - 👀 I’m interested in web development and looking to learn about data science
 - 🌱 I’m currently learning javascript, C++
-- 🔤 I know HTML, CSS, Python, MySQL, bit of JavaScript and jQuery
+- 🔤 I know HTML, CSS, Python, MySQL, bit of JavaScript and NodeJS
 - 💞️ I’m looking to collaborate on python and webdev projects
 - 📫 How to reach me ...
 
